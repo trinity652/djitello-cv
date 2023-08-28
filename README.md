@@ -1,1 +1,1 @@
-# Computer Vision projects on DJI tello
+# Computer Vision Projects on DJI Tello
